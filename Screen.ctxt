@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Screen()
+comment1.params=x
+comment1.target=void\ setScreen(int)
+numComments=2

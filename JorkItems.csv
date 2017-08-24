@@ -1,0 +1,5 @@
+Name:,ItemID,Room,RoomID,Taken,Takeable,Weight,Value,Damage
+Glasses,1,Main Room,1,FALSE,TRUE,0,1,0
+StartNote,2,Main Room,1,FALSE,TRUE,0,0,0
+Guitar,3,Main Room,1,FALSE,TRUE,15,100,5
+StairsKey,4,South Hallway,3,FALSE,TRUE,0,0,0

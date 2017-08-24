@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Location()
+comment1.params=
+comment1.target=int\ getNorth()
+comment2.params=
+comment2.target=int\ getSouth()
+comment3.params=
+comment3.target=int\ getWest()
+comment4.params=
+comment4.target=int\ getEast()
+comment5.params=
+comment5.target=int\ getNorthEast()
+comment6.params=
+comment6.target=int\ getNorthWest()
+comment7.params=
+comment7.target=int\ getSouthEast()
+comment8.params=
+comment8.target=int\ getSouthWest()
+numComments=9

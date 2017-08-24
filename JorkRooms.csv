@@ -1,0 +1,10 @@
+Name,Description,RoomID,North,South,West,East,up,down
+Main Room,0,1,South Hallway,0,Computer Closet,0,0,0
+Computer Closet,0,2,0,0,0,Main Room,0,0
+South Hallway,0,3,Top of Staircase,Main Room,0,BathRoom,0,0
+BathRoom,0,4,0,0,South Hallway,0,0,0
+Top of Staircase,0,5,North Hallway,South Hallway,0,0,0,0
+North Hallway,0,6,Bedroom,Top of Staircase,Office,0,0,0
+Office,0,7,0,0,0,North Hallway,0,0
+Bedroom,0,8,0,North Hallway,0,Bedroom Closet,0,0
+Bedroom Closet,0,9,0,0,Bedroom,0,0,0
